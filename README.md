@@ -1,4 +1,4 @@
-# JupUSD Monorepo
+https://github.com/backinaaz-blip/jupusd-program/blob/main/turbo.json# JupUSD Monorepo
 
 Monorepo for the **JupUSD** mint & redeem Solana program and tooling:
 
