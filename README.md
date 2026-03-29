@@ -56,7 +56,7 @@ pnpm run codama
 
 ## Packages
 
-### SDK (`jupusd-sdk`)
+### SDK (`jupuusd-sdk`)
 
 Located at `packages/sdk`. It bundles:
 
