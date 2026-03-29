@@ -56,7 +56,7 @@ pnpm run codama
 
 ## Packages
 
-### SDK (`jupusd-sdk`)
+### SDK (`jupuusd-sdk`)
 
 Located at `packages/sdk`. It bundles:
 
@@ -69,6 +69,6 @@ See `packages/sdk/README.md` for usage examples and transaction-building pattern
 
 Located at `packages/cli`. The CLI is built with oclif and exposes admin/operator commands (create/update config, operators, benefactors, vaults, etc.).
 
-## License
+## Licensehttps://github.com/backinaaz-blip/jupusd-program/blob/main/turbo.json
 
-See `LICENSE`.
+See `LICENSE`.>
